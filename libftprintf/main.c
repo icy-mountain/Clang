@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "include/libftprintf.h"
 
+//if you use, you must type "make" command
+//next, please complie with libftprintf.a
+//ex) gcc -L. main.c -lftprintf
 //DONT coresspoding %efga(double,float)
 //PLEASE use %diuscpxXn%
 
