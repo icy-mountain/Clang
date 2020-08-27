@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "include/libftprintf.h"
 
+//DONT coresspoding %efga(double,float)
+//PLEASE use %diuscpxXn%
+
 int		main(void){
 	int lib;
 	int ft;
